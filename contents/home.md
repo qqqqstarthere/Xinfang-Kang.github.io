@@ -2,15 +2,15 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am a postgraduate student of the Brain Health Engineering Team at the Zhuhai Campus of Beijing Institute of Technology.My Supervisor is Prof.Kun Qian(Senior Member,IEEE)
 
 #### Email
-sli[at]cumt.edu.cn
+kangxinfang@bit.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Computer Technology, Beijing Institute of Technology(Zhuhai), 2024—2027 (expected).\
+B.E., Information Security, North China Electric Power University(Beijing), 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+EEG Signal Processing, EEG-based Emotion Recognition, Deep Learning.
 
